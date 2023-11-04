@@ -1,5 +1,6 @@
 select * from nashvillehousingclean;
 
+--it is to decide whether or not give permission to make changed in the database
 SET SQL_SAFE_UPDATES = 1;
 
 -- Changing SaleDate column into Date only column
